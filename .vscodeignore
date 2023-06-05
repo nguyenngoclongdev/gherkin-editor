@@ -1,0 +1,16 @@
+.github
+.vscode
+images/
+node_modules
+src/
+out/
+.eslintrc.json
+.gitignore
+.vscodeignore
+*.vsix
+tsconfig.json
+test
+resources
+.vscode-test/**
+.changeset
+dist/__test__
