@@ -27,7 +27,7 @@ Get it from [Visual Studio Marketplace](https://marketplace.visualstudio.com/ite
 
 ## Using the extension 
 
-![Gherkin Editor](https://github.com/nguyenngoclongdev/gherkin-editor/raw/HEAD/images/gherkin-editor.png)
+![Gherkin Editor](https://github.com/nguyenngoclongdev/gherkin-editor/blob/bbe7ece31de2128343646d2511613e5ac14ccd1b/images/gherkin-syntax.png)
 
 1. Open any .feature file in VS Code editor.
 2. Click on the "View" menu and select "Command Palette" (or simply press "Ctrl + Shift + P" on Windows/Linux or "Cmd + Shift + P" on Mac).
