@@ -3,7 +3,7 @@
     "displayName": "Gherkin Editor - Beautiful feature syntax highlight",
     "description": "Beautiful syntax highlight, code completion, format and validator.",
     "icon": "assets/logo.png",
-    "version": "1.0.2",
+    "version": "1.0.3",
     "main": "./dist/extension.js",
     "browser": "./dist/web/extension.js",
     "preview": false,

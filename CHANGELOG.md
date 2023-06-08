@@ -1,5 +1,11 @@
 # Gherkin Editor
 
+## 1.0.3
+
+### Patch Changes
+
+- 4c2cfe4: remove extensionDependencies
+
 ## 1.0.2
 
 ### Patch Changes
