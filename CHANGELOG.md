@@ -1,5 +1,11 @@
 # Gherkin Editor
 
+## 1.0.4
+
+### Patch Changes
+
+- 0669420: reduce bundle size
+
 ## 1.0.3
 
 ### Patch Changes
