@@ -1,4 +1,4 @@
-name: Publish
+name: manual
 
 on:
     workflow_dispatch:
