@@ -1,5 +1,11 @@
 # Gherkin Editor
 
+## 1.0.8
+
+### Patch Changes
+
+- c9c78e0: update README
+
 ## 1.0.4
 
 ### Patch Changes
